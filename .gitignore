@@ -1,0 +1,12 @@
+*.log
+options.txt
+user*cache.json
+
+/crash-reports
+/downloads
+/local
+/logs
+/mods
+/resourcepacks
+/saves
+/screenshots

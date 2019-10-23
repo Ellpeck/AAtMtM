@@ -1,0 +1,9 @@
+setSingleBiome("minecraft:forest")
+
+layers = new LayerGenerator()
+layers.addLayer(0~0,<minecraft:bedrock>)
+layers.addLayer(1~254,<minecraft:stone>)
+layers.addLayer(255~255, <minecraft:bedrock>)
+addGenerator(layers)
+
+setSpawnStructure("lush_cave",60)
