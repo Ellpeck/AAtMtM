@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-10-24T14:59:20.4771741Z",
+  "lastPlayed": "2019-10-24T21:14:38.4166874Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1155,68 +1155,6 @@
       "dateInstalled": "2019-07-06T22:55:14.0117226Z",
       "dateUpdated": "2019-10-24T13:33:16.5155551Z",
       "dateLastUpdateAttempted": "2019-10-24T13:33:16.5155551Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 232131,
-      "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
-      "installedFile": {
-        "id": 2624732,
-        "displayName": "DefaultOptions_1.12.2-9.2.8.jar",
-        "fileName": "DefaultOptions_1.12.2-9.2.8.jar",
-        "fileDate": "2018-10-05T21:44:14.44Z",
-        "fileLength": 15056,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2624/732/DefaultOptions_1.12.2-9.2.8.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3294340221,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 1062572878,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 184185658,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1590672741,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "DefaultOptions_1.12.2-9.2.8.jar"
-      },
-      "dateInstalled": "2019-10-24T13:32:05.7589011Z",
-      "dateUpdated": "2019-10-24T13:32:05.7608867Z",
-      "dateLastUpdateAttempted": "2019-10-24T13:32:05.7608867Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
