@@ -5,7 +5,7 @@ val blackQuartz = <actuallyadditions:item_misc:5>;
 
 # Stone dropping Black Quartz
 Dropt.list("black_quartz").priority(0).add(Dropt.rule().matchBlocks(["minecraft:stone"]).replaceStrategy("ADD")
-    .addDrop(Dropt.drop().selector(Dropt.weight(3), "EXCLUDED").items([blackQuartz, <minecraft:cobblestone>]))
+    .addDrop(Dropt.drop().selector(Dropt.weight(3), "EXCLUDED").items([blackQuartz]))
     .addDrop(Dropt.drop().selector(Dropt.weight(7)))
 );
 
