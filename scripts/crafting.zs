@@ -109,3 +109,11 @@ recipes.addShaped("wolf", egg.withTag({EntityTag: {id: "minecraft:wolf"}}), [
 val star = <actuallyadditions:item_misc:19>;
 recipes.removeShapeless(star);
 recipes.addShapeless("ender_star", star, [<minecraft:nether_star>, blackQuartz, <minecraft:prismarine_shard>]);
+
+# Laser Relay
+recipes.removeShaped(<actuallyadditions:block_laser_relay>);
+recipes.addShaped("laser_relay", <actuallyadditions:block_laser_relay>, [
+    [<minecraft:obsidian>, <minecraft:redstone>, <minecraft:obsidian>],
+    [restonia, advancedCoil, restonia],
+    [<minecraft:obsidian>, <minecraft:redstone>, <minecraft:obsidian>]
+]);
