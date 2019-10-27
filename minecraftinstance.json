@@ -867,55 +867,45 @@
       "installedTargets": null
     },
     {
-      "addonID": 253230,
+      "addonID": 241160,
       "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
       "installedFile": {
-        "id": 2465617,
-        "displayName": "InitialInventory-3.0.0",
-        "fileName": "InitialInventory-3.0.0.jar",
-        "fileDate": "2017-08-16T21:30:51.033Z",
-        "fileLength": 7863,
+        "id": 2612052,
+        "displayName": "NetherPortalFix_1.12.1-5.3.17.jar",
+        "fileName": "NetherPortalFix_1.12.1-5.3.17.jar",
+        "fileDate": "2018-09-02T11:40:27.253Z",
+        "fileLength": 109445,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2465/617/InitialInventory-3.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2612/52/NetherPortalFix_1.12.1-5.3.17.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 239197,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 253211,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2464251221,
+            "fingerprint": 1028378451,
             "type": 0
           },
           {
-            "foldername": "com",
-            "fingerprint": 3998726563,
+            "foldername": "net",
+            "fingerprint": 2265292073,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 935008387,
+            "fingerprint": 3462628396,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3565740540,
             "type": 0
           }
         ],
-        "packageFingerprint": 1938919746,
+        "packageFingerprint": 2800467167,
         "gameVersion": [
-          "1.12",
-          "1.12.1",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -924,15 +914,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "InitialInventory-3.0.0.jar"
+        "FileNameOnDisk": "NetherPortalFix_1.12.1-5.3.17.jar"
       },
-      "dateInstalled": "2019-07-09T17:19:19.754091Z",
-      "dateUpdated": "2019-07-09T17:19:19.7570889Z",
-      "dateLastUpdateAttempted": "2019-07-09T17:19:19.7570889Z",
-      "status": 5,
+      "dateInstalled": "2019-10-27T12:11:17.1887943Z",
+      "dateUpdated": "2019-10-27T12:11:17.1947895Z",
+      "dateLastUpdateAttempted": "2019-10-27T12:11:17.1947895Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1004,6 +994,83 @@
       "dateInstalled": "2019-07-06T22:48:53.7960526Z",
       "dateUpdated": "2019-10-21T12:37:37.3181929Z",
       "dateLastUpdateAttempted": "2019-10-21T12:37:37.3181929Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 253230,
+      "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
+      "installedFile": {
+        "id": 2465617,
+        "displayName": "InitialInventory-3.0.0",
+        "fileName": "InitialInventory-3.0.0.jar",
+        "fileDate": "2017-08-16T21:30:51.033Z",
+        "fileLength": 7863,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2465/617/InitialInventory-3.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 253211,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3998726563,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 935008387,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1938919746,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "InitialInventory-3.0.0.jar"
+      },
+      "dateInstalled": "2019-07-09T17:19:19.754091Z",
+      "dateUpdated": "2019-07-09T17:19:19.7570889Z",
+      "dateLastUpdateAttempted": "2019-07-09T17:19:19.7570889Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
