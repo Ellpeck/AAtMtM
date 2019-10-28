@@ -117,3 +117,6 @@ recipes.addShaped("laser_relay", <actuallyadditions:block_laser_relay>, [
     [restonia, advancedCoil, restonia],
     [<minecraft:obsidian>, <minecraft:redstone>, <minecraft:obsidian>]
 ]);
+
+# Clay
+recipes.addShapeless("clay", <minecraft:clay>, [<minecraft:sand>, <minecraft:water_bucket>]);
