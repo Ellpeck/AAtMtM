@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-10-31T22:36:20.1729779Z",
+  "lastPlayed": "2019-11-01T15:13:42.0907291Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -282,14 +282,14 @@
       "addonID": 228404,
       "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
       "installedFile": {
-        "id": 2774057,
-        "displayName": "ActuallyAdditions-1.12.2-r150.jar",
-        "fileName": "ActuallyAdditions-1.12.2-r150.jar",
-        "fileDate": "2019-08-29T23:02:07.95Z",
-        "fileLength": 2938976,
+        "id": 2824799,
+        "displayName": "ActuallyAdditions-1.12.2-r151.jar",
+        "fileName": "ActuallyAdditions-1.12.2-r151.jar",
+        "fileDate": "2019-11-09T20:22:57.597Z",
+        "fileLength": 2703552,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2774/57/ActuallyAdditions-1.12.2-r150.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2824/799/ActuallyAdditions-1.12.2-r151.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -297,12 +297,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1757525669,
+            "fingerprint": 759819900,
             "type": 0
           },
           {
             "foldername": "de",
-            "fingerprint": 304889495,
+            "fingerprint": 4087395318,
             "type": 0
           },
           {
@@ -312,16 +312,16 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 1255719153,
+            "fingerprint": 1712403467,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 4269587476,
+            "fingerprint": 2608161579,
             "type": 0
           }
         ],
-        "packageFingerprint": 3213550932,
+        "packageFingerprint": 3517506134,
         "gameVersion": [
           "1.12.2"
         ],
@@ -334,12 +334,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ActuallyAdditions-1.12.2-r150.jar"
+        "FileNameOnDisk": "ActuallyAdditions-1.12.2-r151.jar"
       },
       "dateInstalled": "2019-07-06T22:49:43.8477816Z",
-      "dateUpdated": "2019-10-21T12:37:31.3621479Z",
-      "dateLastUpdateAttempted": "2019-10-21T12:37:31.3621479Z",
-      "status": 5,
+      "dateUpdated": "2019-11-11T14:02:14.8881815Z",
+      "dateLastUpdateAttempted": "2019-11-11T14:02:14.8881815Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -427,32 +427,32 @@
       "addonID": 314904,
       "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
       "installedFile": {
-        "id": 2803396,
-        "displayName": "FTBUtilitiesBackups-1.0.0.12.jar",
-        "fileName": "FTBUtilitiesBackups-1.0.0.12.jar",
-        "fileDate": "2019-10-07T01:16:31.893Z",
-        "fileLength": 43120,
+        "id": 2819669,
+        "displayName": "FTBBackups-1.1.0.1.jar",
+        "fileName": "FTBBackups-1.1.0.1.jar",
+        "fileDate": "2019-10-31T20:25:08.137Z",
+        "fileLength": 43764,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2803/396/FTBUtilitiesBackups-1.0.0.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar",
         "isAlternate": false,
-        "alternateFileId": 2803397,
+        "alternateFileId": 2819670,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 11516850,
+            "fingerprint": 3896838891,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1795908878,
+            "fingerprint": 409143337,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2284000660,
+            "fingerprint": 4225148106,
             "type": 0
           },
           {
@@ -462,11 +462,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3199423640,
+            "fingerprint": 812656482,
             "type": 0
           }
         ],
-        "packageFingerprint": 3113100960,
+        "packageFingerprint": 752442057,
         "gameVersion": [
           "1.12.2"
         ],
@@ -479,12 +479,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBUtilitiesBackups-1.0.0.12.jar"
+        "FileNameOnDisk": "FTBBackups-1.1.0.1.jar"
       },
       "dateInstalled": "2019-10-24T13:31:30.8041634Z",
-      "dateUpdated": "2019-10-24T13:31:30.9061132Z",
-      "dateLastUpdateAttempted": "2019-10-24T13:31:30.9061132Z",
-      "status": 5,
+      "dateUpdated": "2019-11-11T14:02:15.7370775Z",
+      "dateLastUpdateAttempted": "2019-11-11T14:02:15.7370775Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -922,78 +922,6 @@
       "dateInstalled": "2019-10-27T12:11:17.1887943Z",
       "dateUpdated": "2019-10-27T12:11:17.1947895Z",
       "dateLastUpdateAttempted": "2019-10-27T12:11:17.1947895Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 238222,
-      "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
-      "installedFile": {
-        "id": 2803400,
-        "displayName": "jei_1.12.2-4.15.0.291.jar",
-        "fileName": "jei_1.12.2-4.15.0.291.jar",
-        "fileDate": "2019-10-07T01:20:32.567Z",
-        "fileLength": 651473,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3894020924,
-            "type": 0
-          },
-          {
-            "foldername": "mezz",
-            "fingerprint": 2909248480,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3888864790,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1488642189,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4278251486,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3391578337,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "jei_1.12.2-4.15.0.291.jar"
-      },
-      "dateInstalled": "2019-07-06T22:48:53.7960526Z",
-      "dateUpdated": "2019-10-21T12:37:37.3181929Z",
-      "dateLastUpdateAttempted": "2019-10-21T12:37:37.3181929Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1083,29 +1011,95 @@
       "installedTargets": null
     },
     {
+      "addonID": 238222,
+      "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
+      "installedFile": {
+        "id": 2803400,
+        "displayName": "jei_1.12.2-4.15.0.291.jar",
+        "fileName": "jei_1.12.2-4.15.0.291.jar",
+        "fileDate": "2019-10-07T01:20:32.567Z",
+        "fileLength": 651473,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3894020924,
+            "type": 0
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 2909248480,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3888864790,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1488642189,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4278251486,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3391578337,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei_1.12.2-4.15.0.291.jar"
+      },
+      "dateInstalled": "2019-07-06T22:48:53.7960526Z",
+      "dateUpdated": "2019-10-21T12:37:37.3181929Z",
+      "dateLastUpdateAttempted": "2019-10-21T12:37:37.3181929Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 289412,
       "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
       "installedFile": {
-        "id": 2815296,
-        "displayName": "FTBQuests-1.8.0.223.jar",
-        "fileName": "FTBQuests-1.8.0.223.jar",
-        "fileDate": "2019-10-24T00:03:25.007Z",
-        "fileLength": 1059964,
+        "id": 2821482,
+        "displayName": "FTBQuests-1.8.0.236.jar",
+        "fileName": "FTBQuests-1.8.0.236.jar",
+        "fileDate": "2019-11-03T18:10:46.39Z",
+        "fileLength": 1059744,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2815/296/FTBQuests-1.8.0.223.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2821/482/FTBQuests-1.8.0.236.jar",
         "isAlternate": false,
-        "alternateFileId": 2815297,
+        "alternateFileId": 2821483,
         "dependencies": [
           {
             "id": 0,
             "addonId": 221826,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 268655,
             "type": 2,
             "fileId": 0
           },
@@ -1117,7 +1111,49 @@
           },
           {
             "id": 0,
+            "addonId": 278398,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 231305,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 237167,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
             "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 237102,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 226410,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225643,
             "type": 2,
             "fileId": 0
           },
@@ -1135,43 +1171,7 @@
           },
           {
             "id": 0,
-            "addonId": 237167,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 237102,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
             "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 278398,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 226410,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 231305,
             "type": 2,
             "fileId": 0
           }
@@ -1180,17 +1180,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 77340719,
+            "fingerprint": 1794315903,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 3646144115,
+            "fingerprint": 1908502999,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3372768825,
+            "fingerprint": 4045210460,
             "type": 0
           },
           {
@@ -1200,11 +1200,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 44581602,
+            "fingerprint": 2792613332,
             "type": 0
           }
         ],
-        "packageFingerprint": 1241049897,
+        "packageFingerprint": 3927431428,
         "gameVersion": [
           "1.12.2"
         ],
@@ -1217,12 +1217,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBQuests-1.8.0.223.jar"
+        "FileNameOnDisk": "FTBQuests-1.8.0.236.jar"
       },
       "dateInstalled": "2019-07-06T22:55:14.0117226Z",
-      "dateUpdated": "2019-10-24T13:33:16.5155551Z",
-      "dateLastUpdateAttempted": "2019-10-24T13:33:16.5155551Z",
-      "status": 3,
+      "dateUpdated": "2019-11-11T14:02:18.051645Z",
+      "dateLastUpdateAttempted": "2019-11-11T14:02:18.051645Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1460,32 +1460,32 @@
       "addonID": 237167,
       "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
       "installedFile": {
-        "id": 2815294,
-        "displayName": "FTBLib-5.4.3.144.jar",
-        "fileName": "FTBLib-5.4.3.144.jar",
-        "fileDate": "2019-10-24T00:02:17.807Z",
-        "fileLength": 929561,
+        "id": 2823531,
+        "displayName": "FTBLib-5.4.4.4.jar",
+        "fileName": "FTBLib-5.4.4.4.jar",
+        "fileDate": "2019-11-07T17:48:30.21Z",
+        "fileLength": 934355,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2815/294/FTBLib-5.4.3.144.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2823/531/FTBLib-5.4.4.4.jar",
         "isAlternate": false,
-        "alternateFileId": 2815295,
+        "alternateFileId": 2823532,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4074843654,
+            "fingerprint": 3107829770,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1426987539,
+            "fingerprint": 368855496,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 779484432,
+            "fingerprint": 2120759837,
             "type": 0
           },
           {
@@ -1495,11 +1495,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 4284753962,
+            "fingerprint": 578230104,
             "type": 0
           }
         ],
-        "packageFingerprint": 311903795,
+        "packageFingerprint": 2046125606,
         "gameVersion": [
           "1.12.2"
         ],
@@ -1512,12 +1512,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBLib-5.4.3.144.jar"
+        "FileNameOnDisk": "FTBLib-5.4.4.4.jar"
       },
       "dateInstalled": "2019-07-06T22:55:12.5707359Z",
-      "dateUpdated": "2019-10-24T13:33:14.1591443Z",
-      "dateLastUpdateAttempted": "2019-10-24T13:33:14.1591443Z",
-      "status": 3,
+      "dateUpdated": "2019-11-11T14:02:16.4995242Z",
+      "dateLastUpdateAttempted": "2019-11-11T14:02:16.4995242Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1606,17 +1606,23 @@
       "addonID": 237102,
       "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
       "installedFile": {
-        "id": 2814047,
-        "displayName": "FTBUtilities-5.4.0.110.jar",
-        "fileName": "FTBUtilities-5.4.0.110.jar",
-        "fileDate": "2019-10-22T00:56:12.573Z",
-        "fileLength": 437522,
+        "id": 2825576,
+        "displayName": "FTBUtilities-5.4.0.121.jar",
+        "fileName": "FTBUtilities-5.4.0.121.jar",
+        "fileDate": "2019-11-11T00:08:41.42Z",
+        "fileLength": 423935,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2814/47/FTBUtilities-5.4.0.110.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2825/576/FTBUtilities-5.4.0.121.jar",
         "isAlternate": false,
-        "alternateFileId": 2814048,
+        "alternateFileId": 2825577,
         "dependencies": [
+          {
+            "id": 0,
+            "addonId": 32274,
+            "type": 2,
+            "fileId": 0
+          },
           {
             "id": 0,
             "addonId": 237167,
@@ -1628,29 +1634,23 @@
             "addonId": 314904,
             "type": 3,
             "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 32274,
-            "type": 2,
-            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 377897762,
+            "fingerprint": 1579808014,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 741992398,
+            "fingerprint": 3365842818,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3036826625,
+            "fingerprint": 328449044,
             "type": 0
           },
           {
@@ -1660,11 +1660,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1900487008,
+            "fingerprint": 1293694256,
             "type": 0
           }
         ],
-        "packageFingerprint": 2341921048,
+        "packageFingerprint": 3292332824,
         "gameVersion": [
           "1.12.2"
         ],
@@ -1677,12 +1677,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBUtilities-5.4.0.110.jar"
+        "FileNameOnDisk": "FTBUtilities-5.4.0.121.jar"
       },
       "dateInstalled": "2019-10-24T13:31:31.1140447Z",
-      "dateUpdated": "2019-10-24T13:31:31.1180493Z",
-      "dateLastUpdateAttempted": "2019-10-24T13:31:31.1180493Z",
-      "status": 3,
+      "dateUpdated": "2019-11-11T14:02:21.4422975Z",
+      "dateLastUpdateAttempted": "2019-11-11T14:02:21.4422975Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
