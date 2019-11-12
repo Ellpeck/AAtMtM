@@ -19,6 +19,7 @@ AtomicReconstructor.addRecipe(<minecraft:pumpkin_seeds>, <minecraft:beetroot_see
 AtomicReconstructor.addRecipe(<minecraft:beetroot_seeds>, <minecraft:wheat_seeds>, 5000);
 
 # Cactus
+AtomicReconstructor.addRecipe(<minecraft:reeds>, <minecraft:sugar>, 20000);
 AtomicReconstructor.addRecipe(<minecraft:cactus>, <minecraft:reeds>, 20000);
 
 # Empowered Enori
