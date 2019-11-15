@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-11-15T13:22:49.9685139Z",
+  "lastPlayed": "2019-11-15T13:32:10.1033297Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -932,6 +932,73 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 272054,
+      "gameInstanceID": "1faa8566-074c-4b06-b381-46216c7a6779",
+      "installedFile": {
+        "id": 2596708,
+        "displayName": "Auto Crafter version 4.3",
+        "fileName": "autocrafter-4.3.jar",
+        "fileDate": "2018-08-02T13:19:36.227Z",
+        "fileLength": 75623,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2596/708/autocrafter-4.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3761942358,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 979213282,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2954117365,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1294519853,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3307813328,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "autocrafter-4.3.jar"
+      },
+      "dateInstalled": "2019-11-15T13:31:54.3427157Z",
+      "dateUpdated": "2019-11-15T13:31:54.3487235Z",
+      "dateLastUpdateAttempted": "2019-11-15T13:31:54.3487235Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 238222,
